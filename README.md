@@ -8,3 +8,5 @@
 ### 2nd day - JavaScript Clock - <a href="https://30-js-clock.netlify.app" target="_blank">View an app</a>
 
 <img src="https://i.ibb.co/CK95yhF/js-clock-screenshot.png" alt="website">
+
+### 3rd day - Custom Image <a href="playing-variables-30.netlify.app" target="_blank">View an app</a>
