@@ -1,0 +1,29 @@
+h1 {
+    background-image: linear-gradient(
+    135deg,
+    hsl(289deg 75% 39%) 0%,
+    hsl(315deg 100% 40%) 6%,
+    hsl(331deg 90% 52%) 14%,
+    hsl(350deg 100% 64%) 24%,
+    hsl(12deg 100% 66%) 36%,
+    hsl(30deg 100% 62%) 50%,
+    hsl(42deg 100% 62%) 64%,
+    hsl(55deg 94% 66%) 74%,
+    hsl(39deg 100% 63%) 82%,
+    hsl(25deg 97% 63%) 87%,
+    hsl(10deg 80% 62%) 92%,
+    hsl(350deg 59% 53%) 95%,
+    hsl(333deg 63% 40%) 97%,
+    hsl(313deg 69% 28%) 99%,
+    hsl(279deg 67% 21%) 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text_div {
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(246, 70, 100);
+}
+
