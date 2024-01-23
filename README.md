@@ -19,4 +19,4 @@
 
 ### 5th day - Flex Panels Image Gallery -  <a href="https://funny-kulfi-ab4707.netlify.app/" target="_blank">View an app</a> 
 
-<img src="https://ibb.co/tQMtSYk" alt="screenshot of app">
+<img src="https://i.ibb.co/gmMpGtH/for-github.png" alt="screenshot of app">
