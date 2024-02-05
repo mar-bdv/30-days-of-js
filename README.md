@@ -1,5 +1,3 @@
-![image](https://github.com/mar-bdv/30-days-of-js/assets/107851909/e40f0ddb-bcfa-4898-ab93-e2bc7fa32347)# 30-days-of-js
-30 days of Vanilla JavaScript - 30 applications
 
 ### 1st day - JavaScript Drum Kit - <a href="https://30-drum-kit.netlify.app/" target="_blank">View an app</a>
   
