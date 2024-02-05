@@ -1,4 +1,4 @@
-# 30-days-of-js
+![image](https://github.com/mar-bdv/30-days-of-js/assets/107851909/e40f0ddb-bcfa-4898-ab93-e2bc7fa32347)# 30-days-of-js
 30 days of Vanilla JavaScript - 30 applications
 
 ### 1st day - JavaScript Drum Kit - <a href="https://30-drum-kit.netlify.app/" target="_blank">View an app</a>
@@ -20,3 +20,7 @@
 ### 5th day - Flex Panels Image Gallery -  <a href="https://funny-kulfi-ab4707.netlify.app/" target="_blank">View an app</a> 
 
 <img src="https://i.ibb.co/gmMpGtH/for-github.png" alt="screenshot of app">
+
+### 6th day - Draw Canva -  <a href="https://draw-canva.netlify.app/" target="_blank">View an app</a> 
+
+<img src="https://i.ibb.co/zfncFjt/for-github2.png" alt="screenshot of app">
