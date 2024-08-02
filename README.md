@@ -22,3 +22,5 @@
 ### 6th day - Draw Canva -  <a href="https://draw-canva.netlify.app/" target="_blank">View an app</a> 
 
 <img src="https://i.ibb.co/zfncFjt/for-github2.png" alt="screenshot of app">
+
+### 7th day - Video Player -  <a href="https://video-player-mb.netlify.app/" target="_blank">View an app</a> 
